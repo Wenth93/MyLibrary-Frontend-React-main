@@ -1,0 +1,29 @@
+
+.Menu img {
+    margin:10px 20px 0 20px;
+}
+
+.Menu nav {
+    border-radius: 15px;
+    margin-bottom: 30px;
+}
+.Menu ul {
+    width:auto;
+    text-align:center;
+}
+.Menu ul li {
+    font-size:18px;
+    list-style-type: none;
+    display:inline-block;
+    padding: 0 40px 0 40px;
+}
+.Menu ul li:hover {
+    border-bottom: 1px solid rgb(167, 147, 147);
+    border-radius: 30px;
+}
+.Menu ul a {
+    color:black;
+}
+.Menu button:focus {
+    border:0px;
+ }
